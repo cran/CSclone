@@ -1,0 +1,14 @@
+acbab0c41c383f00179801a8a3e796f9 *DESCRIPTION
+b7023674aba0a13cfc4198eba13f0534 *NAMESPACE
+1b4b28b0d6c146faf40ea202c8962107 *R/CSclone.R
+fa37014eb28235e682ce105463a0fd73 *R/Hamming.R
+8f1d8956e9473d9fe8f420ffcfbaf33e *R/adjust.mpear.R
+a9da62d417b6f31aca2d10651eb6d551 *R/l.s.R
+007b2ede80c17730ee17446941c4851d *R/simu.data.R
+f93991e64127901637b5565f6ca37418 *R/tf_similar.R
+e057c8678fe44a129d4c13054611ec2a *man/CSclone.Rd
+a84af2a03ae773946b4d3195836fc8ab *man/Hamming.Rd
+b02307c9da46341567701f6c978bb2de *man/adjust.mpear.Rd
+25786fe6c830f655f55e527d5f81fd8f *man/l.s.Rd
+be53f7965f8bfeb196560eb2711ef50e *man/simu.data.Rd
+b48873cb95ea81e391b81f3d9e130be1 *man/tf_similar.Rd
